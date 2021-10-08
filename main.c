@@ -8,6 +8,6 @@
 
 void main()
 {
-printf("Hi gwanty");
+printf("Hi library");
 
 }
